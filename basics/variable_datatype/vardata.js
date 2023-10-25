@@ -13,4 +13,6 @@ const name="SIDDHANT";// given name now cannot be changes as it is declared as c
 console.log(typeof null)
 
 
+
+
  
